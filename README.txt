@@ -1,13 +1,49 @@
-what I did
-:
-mad@MLI:~/cpp/CF1$ git clone https://github.com/ioustreamh/codeforces1
-mad@MLI:~/cpp/CF1$ ls
-codeforces1
-mad@MLI:~/cpp/CF1$ cd codeforces1
-mad@MLI:~/cpp/CF1/codeforces1$ ls
-A  code1.cpp  code-1s.cpp  D
-mad@MLI:~/cpp/CF1/codeforces1$ g++ code1.cpp
-mad@MLI:~/cpp/CF1/codeforces1$ atom code1.cpp
-mad@MLI:~/cpp/CF1/codeforces1$ git config --global user.email "ioustreamh@gmail.com"
-mad@MLI:~/cpp/CF1/codeforces1$  git config --global user.name "ioustreamh"
-mad@MLI:~/cpp/CF1/codeforces1$ atom code.cpp
+to do list:
+
+A:
+1 - A problem statement
+2 - Answer code
+3 - easy Answer code
+4 - generator code
+
+B:
+1 - A problem statement
+2 - Answer code
+3 - easy Answer code
+4 - generator code
+
+C:
+1 - A problem statement
+2 - Answer code
+3 - easy Answer code
+4 - generator code
+
+D:
+1 - A problem statement
+2 - Answer code
+3 - easy Answer code
+4 - generator code
+
+E:
+1 - A problem statement
+2 - Answer code
+3 - easy Answer code
+4 - generator code
+
+F:
+1 - A problem statement
+2 - Answer code
+3 - easy Answer code
+4 - generator code
+
+G:
+1 - A problem statement
+2 - Answer code
+3 - easy Answer code
+4 - generator code
+
+H (Div.1 last problem):
+1 - A problem statement
+2 - Answer code
+3 - easy Answer code
+4 - generator code
