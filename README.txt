@@ -49,7 +49,7 @@ G:
 4 - generator code -
 5 - test the problem and debug it -
 
-H (Div.1 last problem): -
+H (Div.1 last problem not for Div.2): -
 1 - A problem statement -
 2 - Answer code -
 3 - easy Answer code -
