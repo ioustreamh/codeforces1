@@ -31,7 +31,7 @@ int main(int argc,char* argv[]){
   system("echo ... > 9");
   system("echo Accepted > 5");
   cin>>maxn;
-  int l=1,r=maxn,p=0,q;
+  int l = 1,r = maxn + 1,p=0,q;
   cin>>m>>q;
   while( l+1 < r ){
     int i=(l+r)/2;
@@ -54,7 +54,7 @@ int main(int argc,char* argv[]){
       cout<< "wrong anwer on " << i<<endl;
     }
     if(p==q){
-      l=i;
+      l = i + 1;
       p=0;
     }
     p++;
