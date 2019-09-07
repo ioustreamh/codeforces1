@@ -66,7 +66,7 @@ int main(int argc,char* argv[]){
   cout<<"Test :" << endl << endl;
   system("cat < 7");
   cout<<endl<<endl;
-  cout<<"================================================="<<endl;
+  cout<<"================================================="<<endl; 
   cout<<endl;
   cout <<"Your output :" << endl << endl;
   system("cat < 8");
